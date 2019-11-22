@@ -1,0 +1,11 @@
+/Users/davidcornish/workspace/csharp/CustomColorsSounds/bin/Debug/netcoreapp3.0/CustomColorsSounds
+/Users/davidcornish/workspace/csharp/CustomColorsSounds/bin/Debug/netcoreapp3.0/CustomColorsSounds.deps.json
+/Users/davidcornish/workspace/csharp/CustomColorsSounds/bin/Debug/netcoreapp3.0/CustomColorsSounds.runtimeconfig.json
+/Users/davidcornish/workspace/csharp/CustomColorsSounds/bin/Debug/netcoreapp3.0/CustomColorsSounds.runtimeconfig.dev.json
+/Users/davidcornish/workspace/csharp/CustomColorsSounds/bin/Debug/netcoreapp3.0/CustomColorsSounds.dll
+/Users/davidcornish/workspace/csharp/CustomColorsSounds/bin/Debug/netcoreapp3.0/CustomColorsSounds.pdb
+/Users/davidcornish/workspace/csharp/CustomColorsSounds/obj/Debug/netcoreapp3.0/CustomColorsSounds.csprojAssemblyReference.cache
+/Users/davidcornish/workspace/csharp/CustomColorsSounds/obj/Debug/netcoreapp3.0/CustomColorsSounds.AssemblyInfoInputs.cache
+/Users/davidcornish/workspace/csharp/CustomColorsSounds/obj/Debug/netcoreapp3.0/CustomColorsSounds.AssemblyInfo.cs
+/Users/davidcornish/workspace/csharp/CustomColorsSounds/obj/Debug/netcoreapp3.0/CustomColorsSounds.dll
+/Users/davidcornish/workspace/csharp/CustomColorsSounds/obj/Debug/netcoreapp3.0/CustomColorsSounds.pdb
